@@ -10,3 +10,5 @@ scikit_learn==0.24.1
 seaborn==0.11.1
 spacy==2.3.5
 tweepy==3.10.0
+google-api-python-client==1.12.8
+oauth2client==4.1.3
