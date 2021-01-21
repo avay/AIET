@@ -1,1 +1,3 @@
-#wget -q -O <datafile> <source_of_file>
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1uUaedu1_NBpW97i-c7ZOSQkDYginwwq0' -O sports_combined.csv
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1C4ciaYi9tBT8azOhlU5gkkRqsQ9UPOYK' -O political_combined.csv
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1_kWcaTDxjUgw3EG-Ca_LZMaFaBWR9YYs' -O healthcare_combined.csv
